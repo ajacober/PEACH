@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<!-- Data derived from:
+       Ed Knittel - || tastypopsicle.com
+       Feel free to use this file for your own purposes.
+       Just leave the comments and credits when doing so.
+-->
+  <Document>
+    <name>Ramses track test</name>
+    <description>Ramses location coordinate track</description>
+
+    <Style id="redLine">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>4</width>
+      </LineStyle>
+    </Style>
+    
+    <Placemark>
+      <name>Ramses Test</name>
+      <styleUrl>#redLine</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+-78.093433,32.937400
+-78.078167,32.932233 
+-78.082983,32.943233 
+-78.091483,32.945533 
+-78.095883,32.926833 
+-78.097017,32.948567 
+-78.084900,32.958567 
+-78.102200,32.960733 
+-78.108500,32.954883 
+        </coordinates>
+      </LineString>
+    </Placemark>
+
+  </Document>
+</kml>
