@@ -17,7 +17,7 @@
     <Style id="gotoPosnIcon">
       <IconStyle>
         <scale>0.7</scale>
-        <color>7d00ff00</color>
+        <color>27AE60</color>
         <Icon>
           <href>icons/square.png</href>
         </Icon>
@@ -34,7 +34,7 @@
     </Style>
     <Style id="transGreenLine">
       <LineStyle>
-        <color>7d00ff00</color>
+        <color>27AE60</color>
         <width>2</width>
       </LineStyle>
     </Style>
