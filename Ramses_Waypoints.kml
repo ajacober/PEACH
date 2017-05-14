@@ -1,19 +1,6 @@
 <kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <Name>ramses_waypoint</Name>
-    <Style id="lastPosnIcon">
-      <IconStyle>
-        <scale>0.7</scale>
-        <color>ff00ff00</color>
-        <Icon>
-          <href>icons/square.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <color>ff00ff00</color>
-        <scale>0.8</scale>
-      </LabelStyle>
-    </Style>
     <Style id="gotoPosnIcon">
       <IconStyle>
         <Icon>
@@ -23,12 +10,6 @@
       <LabelStyle>
         <scale>0.7</scale>
       </LabelStyle>
-    </Style>
-    <Style id="transBlueLine">
-      <LineStyle>
-        <color>7dff0000</color>
-        <width>2</width>
-      </LineStyle>
     </Style>
     <Style id="transGreenLine">
       <LineStyle>
