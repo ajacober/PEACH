@@ -16,8 +16,6 @@
     </Style>
     <Style id="gotoPosnIcon">
       <IconStyle>
-        <scale>0.7</scale>
-        <color>ff00ff00</color>
         <Icon>
           <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
         </Icon>
@@ -34,7 +32,7 @@
     </Style>
     <Style id="transGreenLine">
       <LineStyle>
-        <color>ff00ff00</color>
+        <color>7d00ff00</color>
         <width>2</width>
       </LineStyle>
     </Style>
