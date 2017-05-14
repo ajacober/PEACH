@@ -1,0 +1,262 @@
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Name>ramses_waypoint</Name>
+    <Style id="lastPosnIcon">
+      <IconStyle>
+        <scale>0.7</scale>
+        <color>ff00ff00</color>
+        <Icon>
+          <href>icons/square.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <color>ff00ff00</color>
+        <scale>0.8</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="gotoPosnIcon">
+      <IconStyle>
+        <scale>0.7</scale>
+        <color>7dff00ff</color>
+        <Icon>
+          <href>icons/square.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.7</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="transBlueLine">
+      <LineStyle>
+        <color>7dff0000</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Style id="transGreenLine">
+      <LineStyle>
+        <color>7d00ff00</color>
+        <width>2</width>
+      </LineStyle>
+    </Style>
+    <Folder>
+      <name>ramses</name>
+      <Placemark>
+        <name>ramses</name>
+        <description>ramses latest goto waypoints</description>
+        <styleUrl>#transBlueLine</styleUrl>
+        <LineString>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.088372,32.831290,0.000000
+-78.082247,32.830492,0.000000
+-78.076097,32.829807,0.000000
+-78.069913,32.830067,0.000000
+-78.063908,32.831337,0.000000
+-78.058162,32.833288,0.000000
+-78.052640,32.835660,0.000000
+-78.047280,32.838280,0.000000
+-78.041998,32.841013,0.000000
+-78.036700,32.843725,0.000000
+-78.031303,32.846290,0.000000
+-78.025722,32.848562,0.000000
+-78.019878,32.850287,0.000000
+-78.013793,32.851257,0.000000
+-78.007623,32.851738,0.000000
+-78.001432,32.851938,0.000000
+-77.995235,32.851925,0.000000
+-77.989043,32.851730,0.000000
+-77.982862,32.851368,0.000000
+-77.976695,32.850860,0.000000
+-77.970545,32.850217,0.000000
+-77.964413,32.849465,0.000000
+-77.958297,32.848627,0.000000
+-77.952192,32.847730,0.000000
+</coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7805.3023	3249.8774&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.088372,32.831290,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7804.9348	3249.8295&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.082247,32.830492,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7804.5658	3249.7884&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.076097,32.829807,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7804.1948	3249.8040&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.069913,32.830067,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7803.8345	3249.8802&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.063908,32.831337,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7803.4897	3249.9973&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.058162,32.833288,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7803.1584	3250.1396&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.052640,32.835660,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7802.8368	3250.2968&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.047280,32.838280,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7802.5199	3250.4608&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.041998,32.841013,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7802.2020	3250.6235&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.036700,32.843725,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7801.8782	3250.7774&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.031303,32.846290,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7801.5433	3250.9137&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.025722,32.848562,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7801.1927	3251.0172&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.019878,32.850287,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7800.8276	3251.0754&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.013793,32.851257,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7800.4574	3251.1043&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.007623,32.851738,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7800.0859	3251.1163&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-78.001432,32.851938,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7759.7141	3251.1155&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.995235,32.851925,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7759.3426	3251.1038&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.989043,32.851730,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7758.9717	3251.0821&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.982862,32.851368,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7758.6017	3251.0516&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.976695,32.850860,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7758.2327	3251.0130&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.970545,32.850217,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7757.8648	3250.9679&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.964413,32.849465,0.000000</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>&lt;div&gt;ramses goto position at&lt;/br&gt; 03-Apr-2012 15:29:18&lt;/br&gt;	-7757.4978	3250.9176&lt;/div&gt;</description>
+        <styleUrl>#gotoPosnIcon</styleUrl>
+        <Point>
+          <altitudeMode>absolute</altitudeMode>
+          <coordinates>-77.958297,32.848627,0.000000</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
