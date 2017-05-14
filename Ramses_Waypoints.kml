@@ -17,7 +17,7 @@
     <Style id="gotoPosnIcon">
       <IconStyle>
         <scale>0.7</scale>
-        <color>7dff00ff</color>
+        <color>7d00ff00</color>
         <Icon>
           <href>icons/square.png</href>
         </Icon>
@@ -43,7 +43,7 @@
       <Placemark>
         <name>ramses</name>
         <description>ramses latest goto waypoints</description>
-        <styleUrl>#transBlueLine</styleUrl>
+        <styleUrl>#transGreenLine</styleUrl>
         <LineString>
           <altitudeMode>absolute</altitudeMode>
           <coordinates>-78.088372,32.831290,0.000000
