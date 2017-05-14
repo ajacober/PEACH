@@ -19,7 +19,7 @@
         <scale>0.7</scale>
         <color>27AE60</color>
         <Icon>
-          <href>icons/square.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
