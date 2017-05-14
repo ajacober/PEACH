@@ -4,7 +4,7 @@
     <Style id="gotoPosnIcon">
       <IconStyle>
         <Icon>
-          <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+          <href>green-dot.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
