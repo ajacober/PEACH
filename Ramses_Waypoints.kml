@@ -2,11 +2,9 @@
   <Document>
     <Name>ramses_waypoint</Name>
     <Style id="gotoPosnIcon">
-      <IconStyle>
-        <Icon>
-          <href>green-dot.png</href>
-        </Icon>
-      </IconStyle>
+      <BalloonStyle>
+        <color>7d00ff00</color>
+      </BalloonStyle>
       <LabelStyle>
         <scale>0.7</scale>
       </LabelStyle>
